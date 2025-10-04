@@ -1,0 +1,22 @@
+form {
+  max-width: 400px; 
+  margin: 0 auto;  
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+  width: 100%;     
+  padding: 8px;    
+  margin-top: 5px; 
+  box-sizing: border-box; 
+}
+
+input[type="submit"] {
+  background-color: green;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  margin-top: 10px;
+}

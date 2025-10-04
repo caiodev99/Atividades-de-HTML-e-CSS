@@ -1,0 +1,9 @@
+.cabeçalho {
+text-align: center;
+}
+.cabeçalho h1 {
+font-size: 55px;
+}
+.cabeçalho p{
+    font-style: italic;
+}

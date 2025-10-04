@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    color: darkgrey;
+}
+h2 {
+    color: lightgray;
+}
+p {
+    margin: 45px;
+}
